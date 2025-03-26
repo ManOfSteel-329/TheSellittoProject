@@ -1,0 +1,61 @@
+{track: 'Gulfstream', talent: 'clarkkent', poolStart: 4, pickType: 5, predictions: Array(12), …}
+pickType
+: 
+5
+poolStart
+: 
+4
+predictions
+: 
+Array(12)
+0
+: 
+{first: '1', second: '2', third: '7', fourth: '9'}
+1
+: 
+{first: '', second: '', third: '', fourth: ''}
+2
+: 
+{first: '', second: '', third: '', fourth: ''}
+3
+: 
+{first: '', second: '', third: '', fourth: ''}
+4
+: 
+{first: '', second: '', third: '', fourth: ''}
+5
+: 
+{first: '', second: '', third: '', fourth: ''}
+6
+: 
+{first: '', second: '', third: '', fourth: ''}
+7
+: 
+{first: '', second: '', third: '', fourth: ''}
+8
+: 
+{first: '', second: '', third: '', fourth: ''}
+9
+: 
+{first: '', second: '', third: '', fourth: ''}
+10
+: 
+{first: '', second: '', third: '', fourth: ''}
+11
+: 
+{first: '', second: '', third: '', fourth: ''}
+length
+: 
+12
+[[Prototype]]
+: 
+Array(0)
+talent
+: 
+"clarkkent"
+track
+: 
+"Gulfstream"
+updatedAt
+: 
+"2025-03-19T01:31:42.051Z"
